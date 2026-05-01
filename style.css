@@ -132,12 +132,12 @@
 ---------------------------------------------------------------- */
 
 .main {
-  /* add here */
-  flex-direction: column;
+  display: flex;
+  flex-direction: row;
   gap: 16px;
   padding: 20px;
   background-color: #f1efe8;
-  align-items: flex-end;
+  align-items: flex-start;
 }
 
 
